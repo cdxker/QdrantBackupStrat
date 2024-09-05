@@ -1,3 +1,4 @@
+#!/bin/sh
 minikube start
 minikube addons enable volumesnapshots
 minikube addons enable csi-hostpath-driver
