@@ -1,0 +1,6 @@
+replicaCount: 3
+
+persistence:
+  accessModes: ["ReadWriteOnce"]
+  size: 1Gi
+  annotations: {}
